@@ -258,11 +258,12 @@ footer{
   background-color: black;
   color: aliceblue;
   text-align: center;
-  padding: 80px 40px;
+  padding: 100px 40px;
 }
 
 footer h1{
   color: coral;
+  font-size: 40px;
   font-family:monospace;
 }
 
