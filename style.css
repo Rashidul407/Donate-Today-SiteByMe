@@ -1,0 +1,270 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+/* banner part work start  */
+
+.banner {
+  margin-bottom: 6rem;
+  background-image: url(./images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+  text-align: center;
+  padding: 15.8rem;
+}
+
+.banner h1 {
+  font-size: 60px;
+}
+
+.h1-lets {
+  color: orangered;
+}
+.banner p {
+  font-size: 18px;
+}
+.banner a {
+  text-decoration: none;
+  color: white;
+  background-color: crimson;
+  padding: 15px 40px;
+  font-weight: 500;
+}
+
+/* banner part work end  */
+
+
+/* second part Donate-money work start  */
+.Donate-money {
+  text-align: center;
+  font-size: 50px;
+}
+
+.donate-paragraph {
+  text-align: center;
+  font-size: 18px;
+}
+
+.donate-amount {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  font-size: 30px;
+  color: gray;
+  font-weight: bold;
+}
+
+.money-4 {
+  border: 2px solid orangered;
+  color: orangered;
+  background-color: pink;
+  padding: 30px 20px;
+}
+
+.money-1,
+.money-2,
+.money-3,
+.money-5 {
+  padding: 30px 20px;
+}
+
+.Amount-sector {
+  margin-top: 3.5rem;
+  text-align: center;
+  font-size: 20px;
+  color: grey;
+  opacity: 4px;
+}
+
+.doted {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.hyper-link {
+  text-align: center;
+  margin-top: 3.5rem;
+  margin-bottom: 4rem;
+}
+
+.hyper-link a {
+  text-decoration: none;
+  color: white;
+  background-color: crimson;
+  padding: 15px 45px;
+}
+
+
+/* second part donate-money work end  */
+
+
+/* Third part donate-plan work start  */
+
+.donate-plan{
+  text-align: center;
+  font-size: 45px;
+}
+.donate-plan-summary{
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 3.5rem;
+}
+
+.sector{
+  display: flex;
+  width: 70%;
+  margin-top: 5rem;
+  margin-left: 15%;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 4rem;
+}
+.sector-1{
+  
+  width: 320px;
+  padding: 40px 17px;
+  background-color: cadetblue;
+}
+.sector-2{
+  
+  width: 320px;
+  padding: 40px 17px;
+  background-color: darkseagreen;
+}
+.sector-3{
+  
+  width: 320px;
+  padding: 40px 17px;
+  background-color: khaki;
+}
+
+/* Third part donate-plan work end  */
+
+
+/* fourth part description work start */
+
+.part-1{
+  margin-top: 5rem;
+  display: flex;
+  gap: 9rem;
+  width: 85%;
+  padding-left:7%;
+}
+
+.section-1{
+  margin-top: 5rem;
+  text-align: justify;
+  
+}
+.section-1 a{
+  text-decoration: none;
+  background-color: brown;
+  padding: 15px 25px;
+  color: white;
+
+}
+
+.part-2{
+  margin-top: 6.5rem;
+  display: flex;
+  gap: 9rem;
+  width: 85%;
+  padding-left:7%;
+}
+
+.section-3 {
+  margin-top: 5rem;
+  text-align: justify;
+}
+
+.section-3 a{
+  text-decoration: none;
+  background-color: brown;
+  padding: 15px 25px;
+  color: white;
+
+}
+
+
+.part-3{
+  margin-top: 6.5rem;
+  display: flex;
+  gap: 9rem;
+  width: 85%;
+  padding-left:7%;
+  margin-bottom: 7rem;
+}
+
+.section-5 {
+  margin-top: 5rem;
+  text-align: justify;
+}
+
+.section-5 a{
+  text-decoration: none;
+  background-color: brown;
+  padding: 15px 25px;
+  color: white;
+
+}
+
+/* fourth part description work end */
+
+.updates{
+  text-align: center;
+  font-size: 45px;
+}
+
+/* form work start */
+form{
+  
+  text-align: center;
+  background-color:antiquewhite;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  padding: 80px 160px;
+}
+
+.email-section{
+  background-color:rgb(28, 255, 221);
+  font-weight: 400;
+  border: none;
+  padding: 10px 20px ;
+}
+
+.subscribe-section{
+  background-color:tomato;
+  font-weight: 400;
+  border: none;
+  padding: 10px 20px ;
+}
+
+/* form work end */
+
+/* footer work start */
+footer{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  padding: 80px 40px;
+}
+
+footer h1{
+  color: coral;
+  font-family:monospace;
+}
+
+/* footer work end */
+
