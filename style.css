@@ -90,6 +90,14 @@
   text-decoration: underline;
 }
 
+.text-file{
+  text-align: center;
+  margin-left: 52rem;
+  border: none;
+  font-size: 25px;
+
+}
+
 .hyper-link {
   text-align: center;
   margin-top: 3.5rem;
